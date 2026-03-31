@@ -1,0 +1,56 @@
+text,label,labels
+"Oh no, another 'terrible' purchase that works perfectly.",positive,2
+This exceeded my expectations in every way.,positive,2
+What a 'disaster' - it actually exceeded my expectations!,positive,2
+Awful customer service and defective product.,negative,0
+Useless product that doesn't work properly.,negative,0
+Affordable price but questionable build quality.,neutral,1
+Great features but terrible customer service experience.,neutral,1
+So 'impressed' with how quickly this fell apart.,negative,0
+Fast shipping but the product doesn't match the description.,neutral,1
+Doesn't work as advertised. Requesting a refund.,negative,0
+"It's fine, I guess. Not amazing but not terrible either.",neutral,1
+Excellent value for money. Very satisfied with my purchase.,positive,2
+So 'disappointed' that this is exactly what I wanted.,positive,2
+Really 'hate' how well-made and durable this is.,positive,2
+Love this product! Works perfectly as described.,positive,2
+Disappointing product that doesn't meet expectations.,negative,0
+Fantastic product! Will definitely buy again.,positive,2
+Outstanding customer service and product quality.,positive,2
+Decent quality but not as good as advertised.,neutral,1
+Really 'love' how this doesn't work at all as advertised.,negative,0
+Nice product but took forever to arrive.,neutral,1
+Works well but the instructions are confusing.,neutral,1
+Average product with both pros and cons.,neutral,1
+Broke after one day of use. Very poor quality.,negative,0
+Incredible value and excellent build quality.,positive,2
+Not as described and poor packaging.,negative,0
+Absolutely 'perfect' - if you enjoy wasting your money.,negative,0
+I guess I'll have to 'suffer' with this amazing product.,positive,2
+What a 'nightmare' - fast shipping and great quality!,positive,2
+What a 'wonderful' experience dealing with this garbage.,negative,0
+Poor quality and arrived damaged. Very disappointed.,negative,0
+This product is absolutely amazing! I love it so much.,positive,2
+Good customer service but the product has some flaws.,neutral,1
+I'm 'devastated' by how much I love this product.,positive,2
+Definitely 'recommend' this if you hate having money.,negative,0
+The product quality is good but the price is too high.,neutral,1
+Great quality and fast shipping. Highly recommend!,positive,2
+"Sure, spending $50 on this piece of junk was totally worth it.",negative,0
+"Perfect product, exactly what I was looking for.",positive,2
+"The product is okay, nothing special but does the job.",neutral,1
+Really 'regret' buying something this good.,positive,2
+Such a 'waste of money' on this high-quality item.,positive,2
+Great job on making the worst product I've ever bought!,negative,0
+Good value for money but could use better packaging.,neutral,1
+Terrible product. Complete waste of money.,negative,0
+Amazing how something can be this bad and still be sold.,negative,0
+Cheap materials and poor construction.,negative,0
+Mediocre quality but acceptable for the price range.,neutral,1
+"Oh wow, what a 'fantastic' product that broke immediately!",negative,0
+Amazing quality and great price point.,positive,2
+Love the design but it's not very durable.,neutral,1
+Overpriced and low quality. Would not recommend.,negative,0
+Such 'excellent' quality - lasted a whole 5 minutes!,negative,0
+"Mixed feelings - some features are great, others not so much.",neutral,1
+So 'upset' that this works better than expected.,positive,2
